@@ -16,7 +16,6 @@ name = input('What is your name? ')
 print("I'm thinking of a number between 1 and 100")
 print('Can you guess what the number is?')
 
-
 #repeat forever:
 while True:
     #get guess
